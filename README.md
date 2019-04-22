@@ -7,9 +7,9 @@ When it comes to app functionalities, you have to enable a feature where when yo
 
 In order to see how the result of the task should look like, visit these two links:
 
-https://www.youtube.com/watch?v=tGN1Vh49iU0 (Desktop version)
+https://youtu.be/tGN1Vh49iU0 (Desktop version)
 
-https://www.youtube.com/watch?v=nYHa31hRkhg (Mobile version)
+https://youtu.be/nYHa31hRkhg (Mobile version)
 
 Required design for website is located in a __design_prototype__ folder where desktop and mobile version are provided along with style guide (font sizes and color palette).
 
