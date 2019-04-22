@@ -34,17 +34,6 @@ Node `">=5.0.0"` you can install it from [here](http://nodejs.org/)
 
 ### Clone the repository
 
-Run these commands in your terminal based on OS you are using:
-
-*OSX & Linux*
-
-```bash
-git clone https://github.com/digital-cube/html-test.git
-cd html-test
-```
-
-*Windows*
-
 ```bash
 git clone https://github.com/digital-cube/html-test.git
 cd html-test
