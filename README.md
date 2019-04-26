@@ -23,7 +23,9 @@ Javascript code has to be written in an **src/js/scripts.js** file.
 
 All your styles have to be written in an **src/css/style.scss** file and __writing them as SASS code will be considered as a plus__.
 
-After you complete the task, you have to ZIP whole folder __EXCLUDING the node_modules FOLDER__ and send it to us via email (or providing a link to google drive).
+After you complete the task, you have to pack whole folder __EXCLUDING the node_modules FOLDER__ using ZIP or TAR.GZ and send it to us via following URL https://dcdrive.digitalcube.rs/ 
+
+The requested CODE is case sensitive code which can be found in the initial email.
 
 ## Setup
 
